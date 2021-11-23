@@ -31,7 +31,7 @@
 				"header": [],
 				"body": {
 					"mode": "raw",
-					"raw": "{\r\n    \"movementType\": \"CG\",\r\n    \"account\": \"343434\",\r\n    \"accountType\": \"CA\",\r\n    \"customer\": \"46440539\",\r\n    \"amount\": 500,\r\n    \"concept\": \"Retiro de dinero\"\r\n}",
+					"raw": "{\r\n    \"movementType\": \"CG\",\r\n    \"account\": \"343434\",\r\n    \"accountType\": \"CA\",\r\n    \"customer\": \"46440539\",\r\n    \"amount\": -500,\r\n    \"concept\": \"Retiro de dinero\"\r\n}",
 					"options": {
 						"raw": {
 							"language": "json"
